@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yanlsin.github.io/sitemap/sitemap.txt
